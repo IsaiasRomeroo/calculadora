@@ -5,7 +5,7 @@
 	<title>Ejercicio1</title>
 </head>
 <body>
-
+//hola buenos dias
 <?php
 if (isset($_GET["cad"])){
 
